@@ -11,8 +11,8 @@ li {
   margin-right: 20px;
 }
 p {
-  color: black;
-  font-size: 50px;
+  color: black;aaaaaa
+  font-size: 150px;
 }
 .absolute  {
   position: absolutes;
@@ -29,7 +29,7 @@ p {
   right: 150px;
 }
 .blue-box {
-  width: 1000px;
-  height: 150px;
+  width: 800px;
+  height: 40px;
   background-color: #00008b;
 }

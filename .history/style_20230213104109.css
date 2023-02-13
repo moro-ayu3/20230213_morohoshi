@@ -12,7 +12,7 @@ li {
 }
 p {
   color: black;
-  font-size: 50px;
+  font-size: 80px;
 }
 .absolute  {
   position: absolutes;
@@ -30,6 +30,6 @@ p {
 }
 .blue-box {
   width: 1000px;
-  height: 150px;
+  height: 100px;
   background-color: #00008b;
 }
