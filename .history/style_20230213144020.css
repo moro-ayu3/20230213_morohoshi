@@ -24,8 +24,8 @@ p {
   font-size: 50px;
 }
 
-.relative {
-  position: relative;
+.absolute {
+  position: absolute;
   bottom: 80px;
   left: 500px;
 }

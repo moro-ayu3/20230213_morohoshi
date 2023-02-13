@@ -16,7 +16,7 @@ li {
 
 .flex {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
 }
 
 p {
@@ -31,12 +31,12 @@ p {
 }
 
 .img {
-  width: 100%
+  width: 100%;
   position: right;
 }
 
-.absolute {
-  position: absolute;
+.abso {
+  position: relative;
   bottom: 15px;
   right: 150px;
 }

@@ -24,14 +24,14 @@ p {
   font-size: 50px;
 }
 
-.relative {
+.absolute {
   position: relative;
   bottom: 80px;
   left: 500px;
 }
 
 .img {
-  width: 100%
+  width: 100%;
   position: right;
 }
 

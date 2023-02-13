@@ -16,31 +16,26 @@ li {
 
 .flex {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
 }
 
 p {
   color: black;
   font-size: 50px;
-}
-
 .relative {
-  position: relative;
+  position: relati;
   bottom: 80px;
   left: 500px;
 }
-
 .img {
-  width: 100%
+  width: 100%;
   position: right;
 }
-
-.absolute {
-  position: absolute;
+.relative {
+  position: relative;
   bottom: 15px;
   right: 150px;
 }
-
 .blue-box {
   width: 1000px;
   height: 150px;

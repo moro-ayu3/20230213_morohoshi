@@ -25,7 +25,7 @@ p {
 }
 
 .relative {
-  position: relative;
+  position: absolute;
   bottom: 80px;
   left: 500px;
 }

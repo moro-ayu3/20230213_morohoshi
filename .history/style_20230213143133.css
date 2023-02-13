@@ -24,18 +24,18 @@ p {
   font-size: 50px;
 }
 
-.relative {
-  position: relative;
+.absolute {
+  position: absolute;
   bottom: 80px;
   left: 500px;
 }
 
 .img {
-  width: 100%
+  width: 100%;
   position: right;
 }
 
-.absolute {
+.relati {
   position: absolute;
   bottom: 15px;
   right: 150px;
