@@ -9,7 +9,7 @@ li {
   font-size: 30px;
   margin-top: 15px;
   margin-right: 20px;
-  text-align: right;
+  text-align: ;
 }
 p {
   color: black;
@@ -21,9 +21,8 @@ p {
   left: 500px;
 }
 .img {
-  width: 30px;
-  height: 30px;
-  background-position: right;
+  width: 50px;
+  height: 50px;
 }
 .relative {
   position: relative;
