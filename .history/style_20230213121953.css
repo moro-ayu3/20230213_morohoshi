@@ -4,10 +4,6 @@ h1 {
   margin-top: 15px;
   margin-left: 20px;
 }
-.flex{
-  display: flex;
-  justify-content: flex-end;
-}
 li {
   color: #00008b;
   font-size: 30px;
@@ -26,7 +22,7 @@ p {
 }
 .img {
   width: 100%;
-  position: right;
+  background-position: right;
 }
 .relative {
   position: relative;

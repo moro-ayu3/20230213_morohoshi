@@ -5,8 +5,7 @@ h1 {
   margin-left: 20px;
 }
 .flex{
-  display: flex;
-  justify-content: flex-end;
+  display:flex
 }
 li {
   color: #00008b;
@@ -14,6 +13,7 @@ li {
   margin-top: 15px;
   margin-right: 20px;
   text-align: right;
+  display: inline-block;
 }
 p {
   color: black;
