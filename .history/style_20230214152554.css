@@ -33,16 +33,20 @@
   height: auto;
 }
 
-.flex { 
-  margin-top: 200px;
-  margin-right: 80px;
-  margin-bottom: 20px;
-  z-index: 0;
-}
-
-.main-ttl {
+.flex {
+ 
   color: black;
   font-size: 50px;
+  margin-top: 200px;
+  margin-right: 80px;
+}
+
+.flex {
+  display: flex;
+  margin-bottom: 20px;
+  margin-right: 200px;
+  float: left;
+  z-index: 0;
 }
 
 .absolute-blue-box {

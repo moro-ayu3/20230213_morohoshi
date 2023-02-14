@@ -44,6 +44,11 @@
   color: black;
   font-size: 50px;
 }
+.flex {
+  margin-bottom: 20px;
+  margin-right: 200px;
+  z-index: 0;
+}
 
 .absolute-blue-box {
   width: 800px;

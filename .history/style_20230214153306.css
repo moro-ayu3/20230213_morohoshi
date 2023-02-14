@@ -34,15 +34,20 @@
 }
 
 .flex { 
+  color: black;
+  font-size: 50px;
   margin-top: 200px;
   margin-right: 80px;
-  margin-bottom: 20px;
-  z-index: 0;
 }
 
 .main-ttl {
   color: black;
-  font-size: 50px;
+  
+}
+.flex {
+  margin-bottom: 20px;
+  margin-right: 200px;
+  z-index: 0;
 }
 
 .absolute-blue-box {
