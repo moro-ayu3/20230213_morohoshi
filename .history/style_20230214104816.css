@@ -24,25 +24,8 @@
 .main-ttl {
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
   color: black;
   font-size: 50px;
-}
-
-.absolute {
-  position: absolute;
-  bottom: 15px;
-  right: 150px;
-  z-index: 0;
-}
-
-.blue-box {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  width: 800px;
-  height: 150px;
-  background-color: #00008b;
 }
 
 .relative {
@@ -57,3 +40,17 @@
   height: auto;
 }
 
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}
+
+.blue-box {
+  display: flex;
+  flex
+  width: 800px;
+  height: 150px;
+  background-color: #00008b;
+}

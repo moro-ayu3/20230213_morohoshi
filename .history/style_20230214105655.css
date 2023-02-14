@@ -29,6 +29,19 @@
   font-size: 50px;
 }
 
+
+.relative {
+  position: relative;
+  bottom: 80px;
+  left: 500px;
+  z-index: 10;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
 .absolute {
   position: absolute;
   bottom: 15px;
@@ -44,16 +57,3 @@
   height: 150px;
   background-color: #00008b;
 }
-
-.relative {
-  position: relative;
-  bottom: 80px;
-  left: 500px;
-  z-index: 10;
-}
-
-.img {
-  width: 100%;
-  height: auto;
-}
-

@@ -44,7 +44,6 @@
   height: 150px;
   background-color: #00008b;
 }
-
 .relative {
   position: relative;
   bottom: 80px;
@@ -57,3 +56,18 @@
   height: auto;
 }
 
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}
+
+.blue-box {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 800px;
+  height: 150px;
+  background-color: #00008b;
+}

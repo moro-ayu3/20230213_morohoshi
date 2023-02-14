@@ -57,3 +57,9 @@
   height: auto;
 }
 
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}

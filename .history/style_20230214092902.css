@@ -14,35 +14,17 @@
 .header-list {
   display: flex;
   font-weight: bold;
-  list-style: none;
 }
 
 .header-item {
   margin-right: 20px; 
 }
 
-.main-ttl {
+p {
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
   color: black;
   font-size: 50px;
-}
-
-.absolute {
-  position: absolute;
-  bottom: 15px;
-  right: 150px;
-  z-index: 0;
-}
-
-.blue-box {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  width: 800px;
-  height: 150px;
-  background-color: #00008b;
 }
 
 .relative {
@@ -53,7 +35,19 @@
 }
 
 .img {
-  width: 100%;
-  height: auto;
+  display: ;
+  width: 100%
 }
 
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}
+
+.blue-box {
+  width: 1000px;
+  height: 150px;
+  background-color: #00008b;
+}

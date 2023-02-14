@@ -14,19 +14,29 @@
 .header-list {
   display: flex;
   font-weight: bold;
-  list-style: none;
 }
 
 .header-item {
   margin-right: 20px; 
 }
 
-.main-ttl {
+p {
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
   color: black;
   font-size: 50px;
+}
+
+.relative {
+  position: relative;
+  bottom: 80px;
+  left: 500px;
+  z-index: 10;
+  tlansform: tlanslate()
+}
+
+.img {
+  width: 100%
 }
 
 .absolute {
@@ -37,23 +47,7 @@
 }
 
 .blue-box {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  width: 800px;
+  width: 1000px;
   height: 150px;
   background-color: #00008b;
 }
-
-.relative {
-  position: relative;
-  bottom: 80px;
-  left: 500px;
-  z-index: 10;
-}
-
-.img {
-  width: 100%;
-  height: auto;
-}
-
