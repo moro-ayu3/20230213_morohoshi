@@ -38,7 +38,7 @@
 
 .flex {
   display: flex;
-  justify-content: flex-start;
+  : row;
   align-items: flex-end;
   width: 800px;
   height: 150px;
