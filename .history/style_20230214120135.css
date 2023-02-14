@@ -27,9 +27,18 @@
   align-items: flex-end;
   color: black;
   font-size: 50px;
-  margin-top: 200px;
-  margin-right: 80px;
 }
+
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: flex-st
 
 .relative-img {
   position: relative;
@@ -58,6 +67,5 @@
   width: 800px;
   height: 150px;
   background-color: #00008b;
-  background-position: bottom;
 }
 

@@ -27,24 +27,9 @@
   align-items: flex-end;
   color: black;
   font-size: 50px;
-  margin-top: 200px;
-  margin-right: 80px;
 }
 
-.relative-img {
-  position: relative;
-  bottom: 80px;
-  left: 500px;
-  z-index: 10;
-}
-
-.img {
-  width: 100%;
-  height: auto;
-  text-align: right;
-}
-
-.absolute {
+.absolute- {
   position: absolute;
   bottom: 15px;
   right: 150px;
@@ -58,6 +43,18 @@
   width: 800px;
   height: 150px;
   background-color: #00008b;
-  background-position: bottom;
+}
+
+.relative {
+  position: relative;
+  bottom: 80px;
+  left: 500px;
+  z-index: 10;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  text-align: right;
 }
 

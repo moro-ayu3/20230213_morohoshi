@@ -27,8 +27,8 @@
   align-items: flex-end;
   color: black;
   font-size: 50px;
-  margin-top: 200px;
-  margin-right: 80px;
+  margin-top: 500px;
+  margin-right: 
 }
 
 .relative-img {
@@ -58,6 +58,5 @@
   width: 800px;
   height: 150px;
   background-color: #00008b;
-  background-position: bottom;
 }
 

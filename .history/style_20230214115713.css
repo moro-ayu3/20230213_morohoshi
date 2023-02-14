@@ -27,8 +27,22 @@
   align-items: flex-end;
   color: black;
   font-size: 50px;
-  margin-top: 200px;
-  margin-right: 80px;
+}
+
+.absolute {
+  position: absolute;
+  bottom: 15px;
+  right: 150px;
+  z-index: 0;
+}
+
+.flex-blue {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 800px;
+  height: 150px;
+  background-color: #00008b;
 }
 
 .relative-img {
@@ -42,22 +56,5 @@
   width: 100%;
   height: auto;
   text-align: right;
-}
-
-.absolute {
-  position: absolute;
-  bottom: 15px;
-  right: 150px;
-  z-index: 0;
-}
-
-.flex {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-end;
-  width: 800px;
-  height: 150px;
-  background-color: #00008b;
-  background-position: bottom;
 }
 
