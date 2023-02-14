@@ -22,7 +22,7 @@
 
 p {
   display: flex;
-  flex-direction: row;
+  flex-direction: ro;
   color: black;
   font-size: 50px;
 }

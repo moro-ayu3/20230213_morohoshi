@@ -1,28 +1,25 @@
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 15px;
+h1 {
   color: #00008b;
-}
-
-.header-ttl {
   font-size: 30px;
+  margin-top: 15px;
   margin-left: 20px;
 }
 
-.header-list {
-  display: flex;
-  font-weight: bold;
+ul {
+  color: #00008b;
+  font-size: 30px;
+  position: relative;
+  top: 15px;
+  right: 20px;
+  text-align: right;
 }
 
-.header-item {
-  margin-right: 20px; 
+.flex {
+  display: flex;
+  flex-direction: row;
 }
 
 p {
-  display: flex;
-  flex-direction: row;
   color: black;
   font-size: 50px;
 }
@@ -31,7 +28,7 @@ p {
   position: relative;
   bottom: 80px;
   left: 500px;
-  z-index: 10;
+  z
 }
 
 .img {
@@ -42,11 +39,11 @@ p {
   position: absolute;
   bottom: 15px;
   right: 150px;
-  z-index: 0;
 }
 
 .blue-box {
   width: 1000px;
   height: 150px;
   background-color: #00008b;
+  z-index: 0;
 }

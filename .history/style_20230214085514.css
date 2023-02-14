@@ -23,6 +23,7 @@
 p {
   display: flex;
   flex-direction: row;
+  align-items: 
   color: black;
   font-size: 50px;
 }

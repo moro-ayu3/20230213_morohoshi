@@ -23,6 +23,7 @@
 p {
   display: flex;
   flex-direction: row;
+  align-items: flex-end;
   color: black;
   font-size: 50px;
 }
@@ -36,6 +37,7 @@ p {
 
 .img {
   width: 100%
+  translate: （30px,-50
 }
 
 .absolute {
