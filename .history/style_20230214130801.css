@@ -30,13 +30,10 @@
   margin-top: 200px;
   margin-right: 80px;
 }
-
 .relative-img {
-  margin-top: 70px;
   margin-bottom: 80px;
   margin-left: 500px;
   z-index: 10;
-  float: right;
 }
 
 .img {
@@ -46,9 +43,10 @@
 
 .flex {
   display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
   margin-bottom: 20px;
   margin-right: 200px;
-  float: left;
   z-index: 0;
 }
 

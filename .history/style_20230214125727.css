@@ -32,11 +32,9 @@
 }
 
 .relative-img {
-  margin-top: 70px;
   margin-bottom: 80px;
   margin-left: 500px;
   z-index: 10;
-  float: right;
 }
 
 .img {
@@ -46,13 +44,17 @@
 
 .flex {
   display: flex;
-  margin-bottom: 20px;
-  margin-right: 200px;
-  float: left;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-bottom: 15px;
+  margin-right: 150px;
   z-index: 0;
 }
 
-.absolute-blue-box {
+.abso {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
   width: 800px;
   height: 150px;
   background-color: #00008b;
