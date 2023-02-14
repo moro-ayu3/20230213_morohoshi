@@ -41,20 +41,19 @@
 
 .flex { 
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
 }
 
 .main-ttl {
   color: black;
   font-size: 50px;
-  text-align: justify;
+  text-align: left;
 }
 
 .absolute-blue-box {
   width: 800px;
   height: 150px;
   margin-bottom: 15px;
+  margin-left: 40px;
   z-index: 0;
   background-color: #00008b;
 }

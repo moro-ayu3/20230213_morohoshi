@@ -26,8 +26,6 @@
 }
 
 .relative-img {
-  width: 100%;
-  height: 100%;
   margin-top: 50px;
   text-align: right;
   z-index: 10;
@@ -42,7 +40,6 @@
 .flex { 
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
 }
 
 .main-ttl {
@@ -53,7 +50,7 @@
 
 .absolute-blue-box {
   width: 800px;
-  height: 150px;
+  height: 150p;
   margin-bottom: 15px;
   z-index: 0;
   background-color: #00008b;
