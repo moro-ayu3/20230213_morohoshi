@@ -1,8 +1,4 @@
-.homepage {
-  width: 100%;
-  margin: 100px auto 0;
-}
-.header {
+.header 
   display: flex;
   justify-content: space-between;
   align-items: center;
