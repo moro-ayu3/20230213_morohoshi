@@ -28,8 +28,8 @@
 .relative-img {
   width: 100%;
   position: relative;
-  top: 80px;
-  bottom: 80px;
+  top: 50px;
+  bottom: 50px;
   text-align: right;
   z-index: 10;
 }
@@ -49,8 +49,7 @@
   color: black;
   font-size: 50px;
   position: absolute;
-  top: 285px;
-  bottom: 285px;
+  top
   text-align: justify;
 }
 
@@ -58,8 +57,8 @@
   width: 60%;
   height: 20%;
   position: absolute;
-  top: 400px;
-  bottom: 400px;
+  top: 500px;
+  bottom: 500px;
   z-index: 0;
   background-color: #00008b;
 }

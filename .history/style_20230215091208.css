@@ -27,9 +27,7 @@
 
 .relative-img {
   width: 100%;
-  position: relative;
-  top: 80px;
-  bottom: 80px;
+  position:top: 50px;
   text-align: right;
   z-index: 10;
 }
@@ -48,18 +46,14 @@
 .main-ttl {
   color: black;
   font-size: 50px;
-  position: absolute;
-  top: 285px;
-  bottom: 285px;
   text-align: justify;
 }
 
 .absolute-blue-box {
-  width: 60%;
-  height: 20%;
+  width: 100%;
   position: absolute;
-  top: 400px;
-  bottom: 400px;
+  bottom: 15px;
+  top: 40px;
   z-index: 0;
   background-color: #00008b;
 }

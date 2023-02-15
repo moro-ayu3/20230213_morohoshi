@@ -26,10 +26,10 @@
 }
 
 .relative-img {
-  width: 100%;
+  width: 150%;
   position: relative;
-  top: 80px;
-  bottom: 80px;
+  top: 50px;
+  bottom: 50px;
   text-align: right;
   z-index: 10;
 }

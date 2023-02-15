@@ -26,9 +26,9 @@
 }
 
 .relative-img {
-  width: 100%;
+  width: 80%;
   position: relative;
-  top: 80px;
+  top: 50px;
   bottom: 80px;
   text-align: right;
   z-index: 10;
